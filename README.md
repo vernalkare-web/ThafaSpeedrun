@@ -57,4 +57,4 @@ ThafaSpeedrun ditujukan sebagai alat bantu untuk memantau informasi permainan. P
 
 📜 Lisensi
 
-MIT 
+MIT License
